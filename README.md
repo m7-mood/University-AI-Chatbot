@@ -27,3 +27,13 @@ The chatbot aims to make university-related information easier to access through
 - CSS
 - JavaScript
 
+
+## 🖥️ Screenshots
+
+### Chat Interface
+
+![Chat Interface](edit-chat.png)
+
+### Database
+
+![Database](Databas.png)
